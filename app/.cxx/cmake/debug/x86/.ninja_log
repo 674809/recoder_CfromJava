@@ -1,0 +1,5 @@
+# ninja log v5
+0	62	1606834080	build.ninja	d49502c789b46645
+0	13	0	clean	d551caa633d08e6f
+0	127	1606834084	CMakeFiles/recoder-lib.dir/hello-jni.c.o	d21f40c0cebad3cd
+128	190	1606834085	/Users/ybf/Desktop/Recoder/app/build/intermediates/cmake/debug/obj/x86/librecoder-lib.so	30a704919eb1cc29

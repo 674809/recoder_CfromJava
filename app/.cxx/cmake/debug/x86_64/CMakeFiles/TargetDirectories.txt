@@ -1,0 +1,3 @@
+/Users/ybf/Desktop/Recoder/app/.cxx/cmake/debug/x86_64/CMakeFiles/rebuild_cache.dir
+/Users/ybf/Desktop/Recoder/app/.cxx/cmake/debug/x86_64/CMakeFiles/edit_cache.dir
+/Users/ybf/Desktop/Recoder/app/.cxx/cmake/debug/x86_64/CMakeFiles/recoder-lib.dir

@@ -1,0 +1,7 @@
+ninja: Entering directory `/Users/ybf/Desktop/Recoder/app/.cxx/cmake/debug/x86'
+[1/2] Building C object CMakeFiles/recoder-lib.dir/hello-jni.c.o
+/Users/ybf/Desktop/Recoder/app/src/main/cpp/hello-jni.c:97:9: warning: implicit declaration of function 'usleep' is invalid in C99 [-Wimplicit-function-declaration]
+        usleep(50);
+        ^
+1 warning generated.
+[2/2] Linking C shared library /Users/ybf/Desktop/Recoder/app/build/intermediates/cmake/debug/obj/x86/librecoder-lib.so

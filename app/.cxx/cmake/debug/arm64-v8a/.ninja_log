@@ -1,0 +1,18 @@
+# ninja log v5
+0	18	0	clean	d551caa633d08e6f
+0	62	1606834080	build.ninja	9628fea3871bb4a
+0	7	0	clean	d551caa633d08e6f
+0	135	1606834084	CMakeFiles/recoder-lib.dir/hello-jni.c.o	4062f7d1bd77f6ce
+136	199	1606834084	/Users/ybf/Desktop/Recoder/app/build/intermediates/cmake/debug/obj/arm64-v8a/librecoder-lib.so	fdeda8c0556cf6c1
+1	269	1606835306	CMakeFiles/recoder-lib.dir/hello-jni.c.o	4062f7d1bd77f6ce
+269	334	1606835306	/Users/ybf/Desktop/Recoder/app/build/intermediates/cmake/debug/obj/arm64-v8a/librecoder-lib.so	fdeda8c0556cf6c1
+0	334	1607180673	CMakeFiles/recoder-lib.dir/hello-jni.c.o	4062f7d1bd77f6ce
+335	403	1607180673	/Users/ybf/Desktop/Recoder/app/build/intermediates/cmake/debug/obj/arm64-v8a/librecoder-lib.so	fdeda8c0556cf6c1
+0	287	1607180972	CMakeFiles/recoder-lib.dir/hello-jni.c.o	4062f7d1bd77f6ce
+287	357	1607180972	/Users/ybf/Desktop/Recoder/app/build/intermediates/cmake/debug/obj/arm64-v8a/librecoder-lib.so	fdeda8c0556cf6c1
+0	97	1607181165	CMakeFiles/recoder-lib.dir/hello-jni.c.o	4062f7d1bd77f6ce
+97	140	1607181165	/Users/ybf/Desktop/Recoder/app/build/intermediates/cmake/debug/obj/arm64-v8a/librecoder-lib.so	fdeda8c0556cf6c1
+1	115	1607182273	CMakeFiles/recoder-lib.dir/hello-jni.c.o	4062f7d1bd77f6ce
+115	166	1607182273	/Users/ybf/Desktop/Recoder/app/build/intermediates/cmake/debug/obj/arm64-v8a/librecoder-lib.so	fdeda8c0556cf6c1
+1	235	1607182336	CMakeFiles/recoder-lib.dir/hello-jni.c.o	4062f7d1bd77f6ce
+235	286	1607182336	/Users/ybf/Desktop/Recoder/app/build/intermediates/cmake/debug/obj/arm64-v8a/librecoder-lib.so	fdeda8c0556cf6c1

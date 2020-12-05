@@ -1,0 +1,19 @@
+# ninja log v5
+1	16	0	clean	d551caa633d08e6f
+1	4701	1606833295	CMakeFiles/native-lib.dir/native-lib.cpp.o	359b36913810b607
+4706	4911	1606833296	/Users/ybf/Desktop/Recoder/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	b24ef594412acac6
+1	314	1606833955	CMakeFiles/native-lib.dir/hello-jni.c.o	25c095423c85faa4
+315	437	1606833955	/Users/ybf/Desktop/Recoder/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	5d785304979f7533
+0	147	1606834037	CMakeFiles/recoder-lib.dir/hello-jni.c.o	afd18f405e88319c
+147	206	1606834037	/Users/ybf/Desktop/Recoder/app/build/intermediates/cmake/debug/obj/armeabi-v7a/librecoder-lib.so	bede4cada296084
+0	12	0	clean	d551caa633d08e6f
+1	136	1606834084	CMakeFiles/recoder-lib.dir/hello-jni.c.o	afd18f405e88319c
+136	194	1606834084	/Users/ybf/Desktop/Recoder/app/build/intermediates/cmake/debug/obj/armeabi-v7a/librecoder-lib.so	bede4cada296084
+0	196	1606834460	CMakeFiles/recoder-lib.dir/hello-jni.c.o	afd18f405e88319c
+196	245	1606834460	/Users/ybf/Desktop/Recoder/app/build/intermediates/cmake/debug/obj/armeabi-v7a/librecoder-lib.so	bede4cada296084
+1	407	1607181465	CMakeFiles/recoder-lib.dir/hello-jni.c.o	afd18f405e88319c
+409	532	1607181465	/Users/ybf/Desktop/Recoder/app/build/intermediates/cmake/debug/obj/armeabi-v7a/librecoder-lib.so	bede4cada296084
+1	230	1607181801	CMakeFiles/recoder-lib.dir/hello-jni.c.o	afd18f405e88319c
+230	299	1607181801	/Users/ybf/Desktop/Recoder/app/build/intermediates/cmake/debug/obj/armeabi-v7a/librecoder-lib.so	bede4cada296084
+0	260	1607182210	CMakeFiles/recoder-lib.dir/hello-jni.c.o	afd18f405e88319c
+260	343	1607182210	/Users/ybf/Desktop/Recoder/app/build/intermediates/cmake/debug/obj/armeabi-v7a/librecoder-lib.so	bede4cada296084
